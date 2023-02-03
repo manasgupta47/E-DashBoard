@@ -1,3 +1,8 @@
+# Info 
+This is E-DashBoard Project In this Project for front-end I use HTML, CSS, JAVASCRIPT, ReactJS. Here You Can Add any type of product and check for that product in productlist using the keyword of that product. Here for back-end I use NodeJS, ExpressJS and MongoDB as DataBase for storing the data of users and Product
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
